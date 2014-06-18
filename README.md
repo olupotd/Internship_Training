@@ -29,3 +29,9 @@ Here's the project for the Intership period.
 	Training.
 	
 	Questions can be emailed to olupotd@aol.com or using the messages tab in the github revision control.	
+	
+
+	First Quiz is below, the deadline is  18th-June-2014 at 05:00pm. Please submit your code to olupotd@aol.com. Thanx
+	
+	
+	Count Vowels – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each 	vowel found.
